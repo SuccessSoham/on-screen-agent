@@ -55,8 +55,6 @@ Launch contact book
 
 Start Word
 
-Trigger IBM ACP
-
 exit (← shuts down the agent)
 
 ### 🛠️ Dev Tips
